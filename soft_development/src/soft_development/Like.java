@@ -3,8 +3,9 @@ package soft_development;
 public class Like {
 		public static void main(String[] args) {
 			
-			System.out.println("D‚«‚ÈH‚×•¨F‚«‚ñ‚Ò‚ç‚²‚Ú‚¤");
-			System.out.println("——RFÅ‹ß‚½‚­‚³‚ñì‚Á‚Ä‚¸‚Á‚ÆH‚×‚Ä‚¢‚½‚çD‚«‚É‚È‚è‚Ü‚µ‚½B");
+			System.out.println("ï¿½Dï¿½ï¿½ï¿½ÈHï¿½×•ï¿½ï¿½Fï¿½ï¿½ï¿½ï¿½Ò‚ç‚²ï¿½Ú‚ï¿½");
+			System.out.println("ï¿½ï¿½ï¿½Rï¿½Fï¿½Å‹ß‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÆHï¿½×‚Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B");
+			System.out.println("Sounds good!!!")
 	}
 }
 
